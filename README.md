@@ -1,4 +1,9 @@
-<p align="center"><img src="logo.svg" alt="aspirin.app" width="360"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-on-dark.svg">
+    <img src="logo.svg" alt="aspirin.app" width="360">
+  </picture>
+</p>
 
 # aspirin.app brand assets
 
